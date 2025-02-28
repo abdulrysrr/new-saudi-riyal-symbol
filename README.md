@@ -27,7 +27,7 @@ The &#xea; entity represents the hexadecimal Unicode U+00EA which we're using in
 ## Demo Preview  
 Here is a screenshot of the `index.html` page:  
 
-![Screenshot of index.html](/demo/index.jpg)  
+![Screenshot of index.html](/demo/index.JPG)  
 
 ## Installation via npm
 You can install this package via npm:
