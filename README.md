@@ -2,27 +2,41 @@ Saudi Riyal New Symbol Repository
 
 This repository provides the new Saudi Riyal (SAR) symbol in multiple formats for ease of use across different applications, including fonts and images.
 
-📂 Available Formats
+Available Formats
 
-Font Files: TTF, OTF, WOFF, WOFF2
+Font Files
 
-Vector Graphics: SVG, EPS
+TTF
 
-Raster Images: PNG, JPG
+OTF
 
-🔤 Font Usage
+WOFF
+
+WOFF2
+
+Vector Graphics
+
+SVG
+
+EPS
+
+Raster Images
+
+PNG
+
+JPG
+
+Font Usage
 
 A custom font is included with a dedicated Unicode character for the Saudi Riyal symbol, allowing for greater flexibility in styling, including size, color, and weight.
 
-Example Usage in HTML: 
+Example Usage in HTML
 
 <style>
     @font-face {
         font-family: 'SaudiRiyalSymbol';
         src: url('saudiriyal.ttf') format('truetype');
     }
-
-
     .symbol {
         font-family: 'SaudiRiyalSymbol', sans-serif;
         font-size: inherit;
@@ -31,13 +45,11 @@ Example Usage in HTML:
         font-weight: bold;
     }
 </style>
-<h2 class="symbol fs-1">&#xea;</h2>
+<p class="symbol">&#xea;</p>
 
+Usage Guidelines
 
-
-✅ Usage Guidelines
-
-To maintain visual consistency, please follow these guidelines provided by Saudi Central Bank SAMA:
+To maintain visual consistency, please follow these guidelines provided by the Saudi Central Bank (SAMA):
 
 Position: Place the symbol to the left of the numeral.
 
@@ -51,20 +63,22 @@ Direction: The symbol should follow the text direction.
 
 Contrast: Ensure sufficient contrast against backgrounds.
 
-Refer to the full usage guide: [SAMA Guidelines](https://www.sama.gov.sa/ar-sa/Currency/SRS/Documents/Guidelines.pdf)
+Refer to the full usage guide: SAMA Guidelines
 
-📥 Installation
+Installation
 
 Using the Font
 
 Download the TTF/OTF file from this repository.
 
-Install it on your system or import in your application.
+Install it on your system or import it into your application.
 
 Use it in your preferred software.
 
 Using SVG/PNG
 
-Simply download and embed in your design or website.
+Simply download and embed it in your design or website.
 
-📢 Contributing
+Contributing
+
+If you would like to contribute or suggest improvements, feel free to submit a pull request or open an issue.
