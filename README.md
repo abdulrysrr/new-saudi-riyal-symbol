@@ -95,9 +95,6 @@ Refer to the full usage guide: **[SAMA Guidelines](https://www.sama.gov.sa/en-US
 - 🇺🇸 [English](README.md)
 - ar [العربية](README.ar.md)
 
-## تابعني على LinkedIn  
-🚀 **تابع آخر مشاريعي وتحديثاتي على LinkedIn**:  
-[ملفي على LinkedIn](https://www.linkedin.com/in/abdulrysr/)
 
 ## Contributing
 If you would like to contribute or suggest improvements, feel free to submit a pull request or open an issue.
