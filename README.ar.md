@@ -31,7 +31,7 @@
 ## معاينة الصفحة الرئيسية  
 إليك لقطة شاشة لصفحة `index.html`:  
 
-![لقطة شاشة لصفحة index.html](/demo/image.JPG)  
+![لقطة شاشة لصفحة index.html](/demo/index.jpg)  
 
 ## استخدام الخط
 يتضمن هذا المستودع خطًا مخصصًا يحتوي على رمز الريال السعودي مع حرف يونيكود مخصص، مما يسمح بمرونة أكبر في التنسيق، بما في ذلك الحجم واللون والوزن.
@@ -105,7 +105,7 @@ yarn add @abdulrysr/saudi-riyal-new-symbol-font
 ## LinkedIn  
 <div dir="rtl">
 
-[ملفي على LinkedIn](https://www.linkedin.com/in/abdulrysr/)
+[ملفي على LinkedIn](https://www.linkedin.com/in/abdulrehmanyaser/)
 
 </div>
 

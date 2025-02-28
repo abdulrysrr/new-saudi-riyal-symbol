@@ -27,7 +27,7 @@ The &#xea; entity represents the hexadecimal Unicode U+00EA which we're using in
 ## Demo Preview  
 Here is a screenshot of the `index.html` page:  
 
-![Screenshot of index.html](/demo/image.JPG)  
+![Screenshot of index.html](/demo/index.jpg)  
 
 ## Installation via npm
 You can install this package via npm:
@@ -88,7 +88,7 @@ To maintain visual consistency, please follow these guidelines provided by the S
 Refer to the full usage guide: **[SAMA Guidelines](https://www.sama.gov.sa/en-US/Currency/SRS/Pages/Guidelines.aspx)**
 
 ## LinkedIn   
-[My LinkedIn Profile](https://www.linkedin.com/in/abdulrysr/)
+[My LinkedIn Profile](https://www.linkedin.com/in/abdulrehmanyaser/)
 
 
 ## 🌍 Available Languages
