@@ -85,7 +85,7 @@ To maintain visual consistency, please follow these guidelines provided by the S
 - **Direction**: The symbol should follow the text direction.
 - **Contrast**: Ensure sufficient contrast against backgrounds.
 
-Refer to the full usage guide: **[SAMA Guidelines](https://www.sama.gov.sa/en-US/Currency/SRS/Pages/Guidelines.aspx)**
+Refer to the full usage guide: **[SAMA Guidelines](https://www.sama.gov.sa/en-US/Currency/SRS/Pages/Guidelines.aspx](https://www.sama.gov.sa/ar-sa/Currency/SRS/Documents/Guidelines.pdf)**
 
 ## LinkedIn   
 [My LinkedIn Profile](https://www.linkedin.com/in/abdulrehmanyaser/)
