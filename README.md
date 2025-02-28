@@ -1,4 +1,4 @@
-# Saudi Riyal New Symbol Repository
+# Implement the new Saudi Riyal Symbol in your Website & Apps
 
 ![Saudi Riyal Symbol](https://argaamplus.s3.amazonaws.com/5df02013-fa26-45d6-b6de-6a97e5c871d5.png)
 
